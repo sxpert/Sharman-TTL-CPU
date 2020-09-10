@@ -67,6 +67,19 @@
     "version": 2
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "address_registers.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 0,
+          "pos_y": 20,
+          "size_x": 500,
+          "size_y": 400
+        }
+      }
+    ]
   }
 }
