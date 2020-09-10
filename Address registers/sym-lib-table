@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "cay17")(type "Legacy")(uri "/Users/sxpert/devel/kicad libs/CAY17-103JALF/CAY17-103JALF.lib")(options "")(descr ""))
+  (lib (name "address_registers-rescue")(type "Legacy")(uri "${KIPRJMOD}/address_registers-rescue.lib")(options "")(descr ""))
+)
