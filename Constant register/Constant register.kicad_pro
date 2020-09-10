@@ -100,15 +100,21 @@
         "solder_mask_clearance": 0.0,
         "solder_mask_min_width": 0.0,
         "solder_paste_clearance": 0.0,
-        "solder_paste_margin_ratio": 0.0
+        "solder_paste_margin_ratio": -0.0
       },
       "track_widths": [
-        0.25
+        0.25,
+        0.5,
+        0.8
       ],
       "via_dimensions": [
         {
           "diameter": 0.8,
           "drill": 0.4
+        },
+        {
+          "diameter": 0.6,
+          "drill": 0.3
         }
       ],
       "zones_allow_external_fillets": false,
@@ -312,8 +318,6 @@
         "microvia_diameter": 0.3,
         "microvia_drill": 0.1,
         "name": "Default",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.25,
         "via_diameter": 0.8,
         "via_drill": 0.4,
@@ -362,7 +366,7 @@
   },
   "sheets": [
     [
-      "6c9d9c15-d0b8-4bb7-8147-d6f92aa7451b",
+      "0282265e-4448-4f78-b01a-45f6b017619f",
       ""
     ]
   ],
